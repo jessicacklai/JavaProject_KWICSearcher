@@ -1,3 +1,4 @@
 # JavaProject_QuickSearcher
 
-Creating a searcher for users to search a keyword, also the words before and after, from a website.
+>>A tool that allows users to search for a keyword on a website, along with the words that appear before and after it. 
+>>Users can specify how many words they want to see before the keyword, up to a maximum of 10 words.
